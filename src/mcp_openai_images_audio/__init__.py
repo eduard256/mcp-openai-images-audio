@@ -7,4 +7,4 @@ mcp_openai_images_audio`); importing internals is not a supported
 contract.
 """
 
-__version__ = "0.1.0"
+__version__ = "0.1.1"

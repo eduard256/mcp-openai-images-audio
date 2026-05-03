@@ -1,6 +1,6 @@
 [project]
 name = "mcp-openai-images-audio"
-version = "0.1.0"
+version = "0.1.1"
 description = "MCP server exposing OpenAI gpt-image-2 image generation and editing as a single tool for Claude Code and other MCP clients."
 readme = "README.md"
 license = { file = "LICENSE" }
