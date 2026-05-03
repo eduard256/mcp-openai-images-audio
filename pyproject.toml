@@ -2,6 +2,7 @@
 name = "mcp-openai-images-audio"
 version = "0.1.0"
 description = "MCP server exposing OpenAI gpt-image-2 image generation and editing as a single tool for Claude Code and other MCP clients."
+readme = "README.md"
 license = { file = "LICENSE" }
 authors = [{ name = "eduard256" }]
 requires-python = ">=3.12"
@@ -57,8 +58,10 @@ packages = ["src/mcp_openai_images_audio"]
 [tool.hatch.build.targets.sdist]
 include = [
     "src/mcp_openai_images_audio",
+    "README.md",
     "LICENSE",
     "pyproject.toml",
+    "docs",
 ]
 
 [tool.ruff]
