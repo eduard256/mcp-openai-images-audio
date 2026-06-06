@@ -1,6 +1,10 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/eduard256/mcp-openai-images-audio/main/docs/hero.webp" alt="mcp-openai-images-audio — One tool. Done right. gpt-image-2" width="600">
+</p>
+
 # mcp-openai-images-audio
 
-[`v0.1.0`](https://github.com/eduard256/mcp-openai-images-audio/releases/tag/v0.1.0)
+[`v0.1.1`](https://github.com/eduard256/mcp-openai-images-audio/releases/tag/v0.1.1)
 
 MCP server that exposes OpenAI's `gpt-image-2` and `gpt-image-1.5` to Claude Code as a single tool. Generate, edit, or compose images straight from a chat. Files are written to disk; the model never returns base64 to your context.
 
