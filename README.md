@@ -1,8 +1,8 @@
+# mcp-openai-images-audio
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/eduard256/mcp-openai-images-audio/main/docs/hero.webp" alt="mcp-openai-images-audio — One tool. Done right. gpt-image-2" width="600">
 </p>
-
-# mcp-openai-images-audio
 
 [`v0.1.1`](https://github.com/eduard256/mcp-openai-images-audio/releases/tag/v0.1.1)
 
